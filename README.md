@@ -22,6 +22,8 @@ Se calcula el ingreso total por tienda y se representa mediante un **gráfico de
 - Se visualiza cuál tienda genera más ingresos.
 - Se identifican posibles oportunidades de mejora en las tiendas con menor facturación.
 
+  ![Ingresos Totales](images/1.png)
+
 📉 **Gráfico:** Ingresos Totales por Tienda (`barplot` con Seaborn)
 
 ---
@@ -84,5 +86,3 @@ El análisis permite comparar y tomar decisiones estratégicas como:
 - Matplotlib
 
 ---
-
-## 📂 Estructura del Proyecto
