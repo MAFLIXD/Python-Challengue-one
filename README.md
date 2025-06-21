@@ -24,7 +24,7 @@ Se calcula el ingreso total por tienda y se representa mediante un **gráfico de
 
   ![Ingresos Totales](images/1.png)
 
-📉 **Gráfico:** Ingresos Totales por Tienda (`barplot` con Seaborn)
+📉 **Gráfico:** Analisis ingresos totales de cada tienda (`barplot` con Seaborn)
 
 ---
 
