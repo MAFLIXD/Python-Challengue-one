@@ -35,7 +35,9 @@ Se analiza qué categorías de productos tienen más ventas por tienda:
 - Se utiliza `value_counts()` para agrupar y contar.
 - Ideal para decisiones de stock o promociones.
 
-📊 **Visualización sugerida:** Gráfico de barras o pastel para distribución de categorías.
+ ![Ingresos Totales](images/2.png)
+ 
+📊 **Grafico:** Gráfico pastel para distribución de categorías (`barplot` con Seaborn)
 
 ---
 
@@ -63,6 +65,8 @@ Se evalúan los costos promedio de envío por tienda, visualizados en un **gráf
 
 - Útil para entender el impacto logístico.
 - Tiendas con altos costos pueden optimizar sus métodos de entrega.
+
+ ![Ingresos Totales](images/3.png)
 
 📈 **Gráfico:** Costo Promedio de Envío por Tienda (`plt.pie()`)
 
